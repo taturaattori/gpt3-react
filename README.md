@@ -4,8 +4,9 @@ Training project following a tutorial and [Figma design](https://www.figma.com/f
 
 ## Preview
 
-<p float="left">
 <img src="src/assets/gpt3home.png"/>
 <img src="src/assets/gpt3blog.png"/>
+
+### Mobile view
+
 <img src="src/assets/gpt3homemobile.png"/>
-</p>
