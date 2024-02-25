@@ -4,7 +4,7 @@ import "./article.css";
 const Article = ({ source }) => {
   return (
     <div className="gpt3__article">
-      <div className="gpt3-article-image">
+      <div className="gpt3__article-image">
         <img src={source} alt="article" />
       </div>
       <div className="gpt3__article-content">
